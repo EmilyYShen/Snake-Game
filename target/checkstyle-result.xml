@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/main/java/org/cis120/snake/GameCourt.java">
+</file>
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/main/java/org/cis120/snake/GameObj.java">
+<error line="15" column="16" severity="warning" message="Variable &apos;px&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="16" column="16" severity="warning" message="Variable &apos;py&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="17" column="16" severity="warning" message="Variable &apos;vx&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="18" column="16" severity="warning" message="Variable &apos;vy&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="19" column="16" severity="warning" message="Variable &apos;width&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="20" column="16" severity="warning" message="Variable &apos;height&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="21" column="16" severity="warning" message="Variable &apos;maxX&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="22" column="16" severity="warning" message="Variable &apos;maxY&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="23" column="18" severity="warning" message="Variable &apos;gridPosition&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="24" column="22" severity="warning" message="Variable &apos;dir&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/main/java/org/cis120/snake/Tile.java">
+<error line="9" column="29" severity="warning" message="Name &apos;row&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="10" column="29" severity="warning" message="Name &apos;col&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/main/java/org/cis120/snake/Snake.java">
+</file>
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/main/java/org/cis120/snake/SnakeBody.java">
+</file>
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/main/java/org/cis120/snake/Apple.java">
+<error line="12" column="32" severity="warning" message="Name &apos;file&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="/Users/emily_shen/Desktop/UPenn/2022_Spring/CIS120/HW/HW9/hw09_local_temp/src/test/java/org/cis120/snake/GameTest.java">
+<error line="41" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="45" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="50" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="54" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="59" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="63" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="68" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="72" column="9" severity="warning" message="WhitespaceAround: &apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+</checkstyle>
